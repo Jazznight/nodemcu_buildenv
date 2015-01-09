@@ -11,3 +11,6 @@
 [submodule "esptool_py"]
 	path = esptool_py
 	url = https://github.com/themadinventor/esptool
+[submodule "ESP8266_SDK"]
+	path = ESP8266_SDK
+	url = https://github.com/Jazznight/ESP8266_SDK.git
