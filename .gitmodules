@@ -1,0 +1,13 @@
+[submodule "nodemcu-firmware"]
+	path = nodemcu-firmware
+	url = https://github.com/nodemcu/nodemcu-firmware.git
+[submodule "crosstool-NG"]
+	path = crosstool-NG
+	url = git://github.com/jcmvbkbc/crosstool-NG.git
+	branch = lx106
+[submodule "esptool-ck"]
+	path = esptool-ck
+	url = https://github.com/tommie/esptool-ck
+[submodule "esptool_py"]
+	path = esptool_py
+	url = https://github.com/themadinventor/esptool
